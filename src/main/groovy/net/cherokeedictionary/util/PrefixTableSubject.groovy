@@ -3,7 +3,7 @@ package net.cherokeedictionary.util
 /**
  * Created by torr on 8/17/2015.
  */
-public enum PrefixTableSubject {
+enum PrefixTableSubject {
     SG1,
     SG2,
     SG3,

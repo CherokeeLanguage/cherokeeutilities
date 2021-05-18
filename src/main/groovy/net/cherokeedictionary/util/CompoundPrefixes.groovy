@@ -173,8 +173,8 @@ class CompoundPrefixes {
 
         prefixes.put("SG3SG1", new Prefix(preVowel: 'Ꭰgw', preConsonant: 'ᎠᎩ', other: ''))
         prefixes.put("SG3SG2", new Prefix(preVowel: 'j', preConsonant: 'Ꮵ', other: ''))
-        prefixes.put("SG3SG3AN", new Prefix(preVowel: 'G', preConsonant: 'Ꭶ', other: 'a'))
-        prefixes.put("SG3SG3IN", new Prefix(preVowel: 'G', preConsonant: 'Ꭶ', other: 'a'))
+        prefixes.put("SG3SG3AN", new Prefix(preVowel: 'g', preConsonant: 'Ꭶ', other: 'a'))
+        prefixes.put("SG3SG3IN", new Prefix(preVowel: 'g', preConsonant: 'Ꭶ', other: 'a'))
         prefixes.put("SG3DL1INCL", new Prefix(preVowel: 'Ꭹn', preConsonant: 'ᎩᏂ', other: ''))
         prefixes.put("SG3DL1EXCL", new Prefix(preVowel: 'ᎣᎩn', preConsonant: 'ᎣᎩᏂ', other: ''))
         prefixes.put("SG3PL1INCL", new Prefix(preVowel: 'Ꭲg', preConsonant: 'ᎢᎩ', other: ''))
